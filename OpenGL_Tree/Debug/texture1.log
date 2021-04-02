@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\vs2015\workspace\opengl程序\treeandlight\texture光照\main.cpp(63): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  psBMPLoader.cpp
+  正在生成代码...
+  texture1.vcxproj -> D:\VS2015\workspace\OpenGL程序\TreeAndLight\texture光照\.\Debug\texture1.exe
+  texture1.vcxproj -> .\Debug/texture1.pdb (Full PDB)
