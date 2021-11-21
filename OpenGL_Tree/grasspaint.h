@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <GL/glut.h>
-//»æÖÆ²ÝµØ
+//æµ‹è¯• 
 void GrassPaint(GLdouble Y) 
 {
 	glBegin(GL_QUADS);
