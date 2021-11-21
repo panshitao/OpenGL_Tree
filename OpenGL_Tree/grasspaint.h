@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <GL/glut.h>
-//测试 
+//测试 2
 void GrassPaint(GLdouble Y) 
 {
 	glBegin(GL_QUADS);
